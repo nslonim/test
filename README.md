@@ -1,4 +1,4 @@
 test
 ====
 
-Just playing with Gut
+Just playing with Git
